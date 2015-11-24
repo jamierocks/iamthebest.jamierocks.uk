@@ -1,0 +1,6 @@
+name: I Am The Best
+baseurl: "/"
+url: "iamthebest.jamierocks.uk"
+
+sass:
+  style: compressed
